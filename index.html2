@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my profile</title>
+
+</head>
+<body>
+    <h1>my name:Ahmed Maher</h1>
+    <h2>about me</h2>
+    <p>I am a second-year computer science and information student and I love studying software and developing it.</p>
+    
+
+    <img src="ahmed.jpg" width="300"/>
+    
+    <h2>my hobbies</h2>
+
+    <ul>
+
+
+<li>playing football</li>
+<li>Expanding programming learning</li>
+<li>I hope to travel around the world one day</li>
+<li>To be a multi-skilled software engineer</li>
+
+
+</ul>
+ 
+
+<h2> contact</h2>
+
+<a> My GitHub account="https://github.com/ahmedmaher18"</a>
+</body>
+</html>
