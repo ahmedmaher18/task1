@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مدينة لندن</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="overlay">
+        <div class="content">
+            <h1>مرحبا بك في لندن</h1>
+            <p>لندن هي عاصمة المملكة المتحدة، وتُعرف بتاريخها العريق وثقافتها الغنية.</p>
+        </div>
+    </div>
+</body>
+</html>
